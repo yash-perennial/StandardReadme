@@ -38,6 +38,13 @@ until finished
 
 Explain how to build the code, giving appropriate command/s in sequence.
 
+~~~
+ 1. A numbered list
+     1. A nested numbered list
+     2. Which is numbered
+ 2. Which is numbered
+~~~
+
 ### Running the tests
 
 Explain how to run the automated tests for this system
